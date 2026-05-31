@@ -55,6 +55,30 @@ I believe that consistent effort over a long period beats short bursts of motiva
 
 ## 🚀 Featured Projects
 
+
+### 🍎 MacOS-Inspired Portfolio Website
+
+A personal portfolio website inspired by the macOS desktop experience.
+
+#### Features
+- Interactive macOS-like User Interface
+- Desktop Icons and Dock Navigation
+- Responsive Design
+- Smooth Animations and Transitions
+- Project Showcase Section
+- About Me and Contact Sections
+
+#### Tech Stack
+
+```text
+HTML
+CSS
+JavaScript
+```
+
+---
+
+
 ### 📷 Pixlify
 
 A social media platform built using the MERN stack.
