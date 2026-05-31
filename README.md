@@ -71,9 +71,8 @@ A personal portfolio website inspired by the macOS desktop experience.
 #### Tech Stack
 
 ```text
-HTML
-CSS
-JavaScript
+REACT
+
 ```
 
 ---
