@@ -1,27 +1,30 @@
 <h1 align="center">Hi 👋, I'm Harshit Tiwari</h1>
-<h3 align="center">CSIT Student | MERN Stack Developer | DSA Learner</h3>
+
+<h3 align="center">
+Full Stack Developer • MERN Stack Developer • DSA Learner • CSIT Student
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;MERN+Stack+Developer;DSA+Learner;Building+Projects+and+Improving+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Building+MERN+Applications;Learning+Data+Structures+and+Algorithms;Aspiring+Software+Engineer;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshit-tiwari-codebase&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm **Harshit Tiwari**, a CSIT student who enjoys building web applications and learning how software works behind the scenes.
-
-I started my journey with HTML and CSS and gradually moved toward JavaScript, backend development, databases, and problem-solving. Currently, I'm focused on improving my skills in the **MERN Stack** and **Data Structures & Algorithms**.
-
-I believe that consistent effort over a long period beats short bursts of motivation, so I try to learn something new and build something useful every day.
+## 🚀 About Me
 
 - 🎓 CSIT Student
 - 📊 CGPA: **9.1+**
-- 💻 Learning Full Stack Development
-- 🧠 Practicing DSA in C++
-- 🌱 Currently exploring React.js and Backend Development
-- 🚀 Building real-world projects using the MERN Stack
-- 🎯 Goal: Become a skilled Software Engineer
+- 💻 MERN Stack Developer
+- 🧠 Learning Data Structures & Algorithms in C++
+- 🌱 Currently Exploring Backend Architecture
+- 🚀 Building Real-World Full Stack Applications
+- 🎯 Goal: Become a Skilled Software Engineer
+
+I enjoy building web applications, solving coding problems, and continuously improving my development skills through projects and practical learning.
 
 ---
 
@@ -53,46 +56,29 @@ I believe that consistent effort over a long period beats short bursts of motiva
 
 ---
 
-## 🚀 Featured Projects
-
-
-### 🍎 MacOS-Inspired Portfolio Website
-
-A personal portfolio website inspired by the macOS desktop experience.
-
-#### Features
-- Interactive macOS-like User Interface
-- Desktop Icons and Dock Navigation
-- Responsive Design
-- Smooth Animations and Transitions
-- Project Showcase Section
-- About Me and Contact Sections
-
-#### Tech Stack
-
-```text
-REACT
-
-```
-
----
-
+## 📌 Featured Projects
 
 ### 📷 Pixlify
 
-A social media platform built using the MERN stack.
+A Full Stack Social Media Platform built using the MERN Stack.
 
 #### Features
-- User Authentication with JWT
+
+- JWT Authentication
 - Secure Cookie-Based Login
-- Image Uploads using ImageKit
-- Create and Manage Posts
-- MongoDB Database Integration
-- RESTful APIs
+- User Profiles
+- Follow Users
+- Create Posts
+- Like Posts
+- Save Posts
+- Image Uploads with ImageKit
+- REST API Architecture
+- MongoDB Integration
 
 #### Tech Stack
 
 ```text
+React
 Node.js
 Express.js
 MongoDB
@@ -102,14 +88,37 @@ ImageKit
 
 ---
 
-### 🎵 Spotify Clone
+### 🍎 MacOS Portfolio Website
 
-A responsive Spotify-inspired music application UI.
+A portfolio website inspired by the macOS desktop experience.
 
 #### Features
+
+- Desktop Style UI
+- Dock Navigation
 - Responsive Design
-- Music Player Interface
-- Playlist Layout
+- Smooth Animations
+- Project Showcase
+- Contact Section
+
+#### Tech Stack
+
+```text
+React
+CSS
+```
+
+---
+
+### 🎵 Spotify Clone
+
+A Spotify-inspired music application interface.
+
+#### Features
+
+- Responsive Design
+- Music Player UI
+- Playlist Interface
 - Modern User Experience
 
 #### Tech Stack
@@ -122,7 +131,7 @@ JavaScript
 
 ---
 
-## 📚 What I'm Learning
+## 📚 Currently Learning
 
 ```text
 ✓ HTML
@@ -137,22 +146,33 @@ Currently Learning:
 → React.js
 → Data Structures & Algorithms
 → Backend Architecture
+→ System Design Fundamentals
 ```
 
 ---
 
-## 🎯 Current Goals
+## 🎯 2026 Goals
 
-- Strengthen DSA and Problem Solving
-- Become confident with React.js
-- Build more production-ready projects
+- Solve 300+ DSA Problems
+- Master React Ecosystem
+- Build Production-Ready Applications
 - Learn System Design Fundamentals
 - Contribute to Open Source
-- Prepare for Software Engineering Internships
+- Secure a Software Engineering Internship
+- Become Interview Ready
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 Achievements
+
+- CGPA: 9.1+
+- Built Multiple Full Stack Projects
+- Strong Interest in Problem Solving
+- Consistently Learning New Technologies
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshit-tiwari-codebase&show_icons=true&theme=tokyonight" />
@@ -168,44 +188,48 @@ Currently Learning:
 
 ---
 
-## 🧩 Coding Profiles
+## 🔥 GitHub Activity Graph
 
-<p align="left">
-  <a href="YOUR_LEETCODE_LINK">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-
-  <a href="YOUR_GITHUB_LINK">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit-tiwari-codebase&theme=tokyo-night" />
 </p>
 
 ---
 
-## 💭 A Few Things I Believe
+## 💡 Developer Philosophy
 
 - Building projects teaches more than watching tutorials.
-- Consistency matters more than intensity.
+- Consistency beats motivation.
 - Every bug is an opportunity to learn.
 - Strong fundamentals create strong developers.
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-Feel free to connect if you want to discuss:
-- Web Development
+<p align="left">
+
+<a href="https://github.com/harshit-tiwari-codebase">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out if you want to discuss:
+
+- Full Stack Development
 - MERN Stack
-- DSA & Problem Solving
+- Data Structures & Algorithms
 - Open Source
+- Software Engineering
 - Technology
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile! 🚀
-</p>
+<h3 align="center">
+🚀 Keep Learning • Keep Building • Keep Growing
+</h3>
