@@ -134,6 +134,8 @@ MongoDB
 JWT
 Socket.IO
 AI APIs
+```
+
 ---
 
 ## 📚 Currently Learning
