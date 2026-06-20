@@ -109,26 +109,31 @@ CSS
 ```
 
 ---
+### 🤖 Nexora
 
-### 🎵 Spotify Clone
-
-A Spotify-inspired music application interface.
+An AI-powered productivity and knowledge platform designed to help users search, organize, and interact with information more efficiently.
 
 #### Features
 
-- Responsive Design
-- Music Player UI
-- Playlist Interface
-- Modern User Experience
+- AI-Powered Search Experience
+- Intelligent Content Discovery
+- User Authentication & Authorization
+- Real-Time Interactions
+- Modern Responsive UI
+- REST API Architecture
+- Scalable Backend Structure
+- Secure Data Management
 
 #### Tech Stack
 
 ```text
-HTML
-CSS
-JavaScript
-```
-
+React
+Node.js
+Express.js
+MongoDB
+JWT
+Socket.IO
+AI APIs
 ---
 
 ## 📚 Currently Learning
