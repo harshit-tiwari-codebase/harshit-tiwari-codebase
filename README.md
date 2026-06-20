@@ -96,7 +96,6 @@ A portfolio website inspired by the macOS desktop experience.
 
 - Desktop Style UI
 - Dock Navigation
-- Responsive Design
 - Smooth Animations
 - Project Showcase
 - Contact Section
