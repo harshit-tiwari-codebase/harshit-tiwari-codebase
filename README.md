@@ -138,25 +138,7 @@ AI APIs
 
 ---
 
-## 📚 Currently Learning
 
-```text
-✓ HTML
-✓ CSS
-✓ JavaScript
-✓ Git & GitHub
-✓ MongoDB
-✓ Express.js
-✓ Node.js
-
-Currently Learning:
-→ React.js
-→ Data Structures & Algorithms
-→ Backend Architecture
-→ System Design Fundamentals
-```
-
----
 
 ## 🎯 2026 Goals
 
