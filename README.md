@@ -79,16 +79,14 @@ I treat DSA as the base layer for interviews and for backend work: queues, cache
 ## GitHub Statistics
 
 <div align="center">
-<a href="https://github.com/harshit-tiwari-codebase"><img src="https://github-readme-stats.vercel.app/api?username=harshit-tiwari-codebase&show_icons=true&bg_color=09090B&title_color=A78BFA&text_color=FAFAFA&icon_color=8B5CF6&border_color=27272A" alt="GitHub stats: commits, pull requests, issues and stars" height="165"></a>
-<a href="https://github.com/harshit-tiwari-codebase?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-tiwari-codebase&layout=compact&bg_color=09090B&title_color=A78BFA&text_color=FAFAFA&border_color=27272A" alt="Most used languages across public repositories" height="165"></a>
-<br>
-<a href="https://github.com/harshit-tiwari-codebase"><img src="https://streak-stats.demolab.com/?user=harshit-tiwari-codebase&background=09090B&ring=8B5CF6&fire=A78BFA&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=A78BFA&sideLabels=A1A1AA&dates=A1A1AA&stroke=27272A&border=27272A" alt="Current and longest GitHub contribution streak" height="165"></a>
+<img src="assets/github-stats.svg" alt="GitHub activity: contributions, commits, current and longest streak, pull requests and public repositories." width="100%">
+<img src="assets/languages.svg" alt="Most used languages across public repositories." width="100%">
 </div>
 
 ## Contribution Graph
 
 <div align="center">
-<a href="https://github.com/harshit-tiwari-codebase"><img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit-tiwari-codebase&bg_color=09090B&color=A1A1AA&line=8B5CF6&point=FAFAFA&area=true&area_color=8B5CF6&title_color=A78BFA&hide_border=true" alt="Contribution activity over the last 31 days" width="100%"></a>
+<img src="assets/contributions.svg" alt="Contribution calendar for the last year." width="100%">
 </div>
 
 ## Education
