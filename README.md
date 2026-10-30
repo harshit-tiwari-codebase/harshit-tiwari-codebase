@@ -7,8 +7,6 @@
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/harshit-tiwari-48830b3b4"><b>LinkedIn</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="[ADD: LeetCode URL]"><b>LeetCode</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="[ADD: Portfolio URL]"><b>Portfolio</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:[ADD: Email Address]"><b>Email</b></a>
@@ -43,7 +41,7 @@ I treat Data Structures and Algorithms as foundational tools for systems program
 ## 3. Current Focus
 
 - **Backend Architecture & Distributed Systems**: Designing rate limiters (Token Bucket), distributed unique ID generators (Snowflake), and consistent hash rings for partitioning.
-- **Data Structures & Algorithms in C++**: Advancing LeetCode problem-solving targeting 600 problems, focusing on sliding window, two-pointer algorithms, and hashing.
+- **Algorithmic Problem-Solving in C++**: Strengthening core problem-solving techniques and computational efficiency in C++.
 - **Security & Forensics Engineering**: Implementing cryptographic verification algorithms and relay chain network parsing in **TraceMail**.
 
 ---
@@ -109,24 +107,7 @@ I treat Data Structures and Algorithms as foundational tools for systems program
 
 ---
 
-## 6. DSA Journey
-
-<div align="center">
-  <img src="assets/dsa-progress.svg" alt="LeetCode progress in C++: 64 of 600 problems solved" width="100%">
-</div>
-
-I solve Data Structures and Algorithms problems in **C++** on LeetCode. I focus on core patterns that reinforce system design and computational complexity:
-
-- **Algorithmic Patterns**: Two Pointers, Sliding Window, Prefix Sums, Frequency Hashing, Binary Search.
-- **Systems &amp; Partitioning Algorithms**: Token Bucket rate limiters, Snowflake 64-bit ID generation, and Consistent Hash Rings with virtual nodes.
-- **Current Milestone**: **64** problems solved towards a target of **600**.
-
-> [!NOTE]  
-> LeetCode Profile: **[ADD: LeetCode URL]** *(Update link to enable real-time contest &amp; problem tracking)*
-
----
-
-## 7. GitHub Stats
+## 6. GitHub Stats
 
 <div align="center">
   <img src="assets/github-stats.svg" alt="GitHub activity: contributions, commits, streak, pull requests, and public repositories" width="100%">
@@ -137,7 +118,7 @@ I solve Data Structures and Algorithms problems in **C++** on LeetCode. I focus 
 
 ---
 
-## 8. Contribution Graph
+## 7. Contribution Graph
 
 <div align="center">
   <img src="assets/contributions.svg" alt="Annual contribution calendar showing daily commits and activity" width="100%">
@@ -145,7 +126,7 @@ I solve Data Structures and Algorithms problems in **C++** on LeetCode. I focus 
 
 ---
 
-## 9. Education
+## 8. Education
 
 - **Bachelor of Technology (B.Tech)** in Computer Science &amp; Information Technology (CSIT)  
   **IPS IES Academy** · *2024 – Present*  
@@ -154,7 +135,7 @@ I solve Data Structures and Algorithms problems in **C++** on LeetCode. I focus 
 
 ---
 
-## 10. Engineering Interests
+## 9. Engineering Interests
 
 My technical exploration centers on two architectural challenges: system structure and resilience under load.
 
@@ -165,15 +146,14 @@ My technical exploration centers on two architectural challenges: system structu
 
 ---
 
-## 11. Connect
+## 10. Connect
 
 I am actively seeking software engineering opportunities and collaborations on challenging backend and full-stack projects.
 
 - **GitHub**: [github.com/harshit-tiwari-codebase](https://github.com/harshit-tiwari-codebase)
 - **LinkedIn**: [linkedin.com/in/harshit-tiwari-48830b3b4](https://www.linkedin.com/in/harshit-tiwari-48830b3b4)
-- **Email**: `[ADD: Email Address]`
 - **Portfolio**: `[ADD: Portfolio URL]`
-- **LeetCode**: `[ADD: LeetCode URL]`
+- **Email**: `[ADD: Email Address]`
 
 ---
 
