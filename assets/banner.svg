@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="260" viewBox="0 0 880 260" role="img" aria-labelledby="banner-title banner-desc">
+  <title id="banner-title">Harshit Tiwari - Full Stack Developer</title>
+  <desc id="banner-desc">Profile banner for Harshit Tiwari, focusing on backend engineering, scalable systems, and architecture.</desc>
+  <defs>
+    <linearGradient id="purple-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A78BFA" />
+      <stop offset="100%" stop-color="#8B5CF6" />
+    </linearGradient>
+    <radialGradient id="ambient-glow" cx="80%" cy="30%" r="65%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid-pattern" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#27272A" stroke-width="0.75" stroke-opacity="0.6" />
+    </pattern>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="880" height="260" rx="12" fill="#09090B" />
+  <rect width="880" height="260" rx="12" fill="url(#grid-pattern)" />
+  <rect width="880" height="260" rx="12" fill="url(#ambient-glow)" />
+  <rect x="0.5" y="0.5" width="879" height="259" rx="11.5" fill="none" stroke="#27272A" />
+
+  <!-- Left Content Block -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
+    <!-- Status Pill -->
+    <rect x="42" y="38" width="248" height="26" rx="13" fill="#18181B" stroke="#27272A" />
+    <circle cx="56" cy="51" r="4" fill="#8B5CF6" />
+    <text x="68" y="55.5" font-size="11.5" font-weight="600" fill="#A78BFA" letter-spacing="0.4">FULL STACK · BACKEND SYSTEMS</text>
+
+    <!-- Main Typography -->
+    <text x="42" y="104" font-size="29" font-weight="700" fill="#FAFAFA" letter-spacing="-0.5">Building Scalable Architectures.</text>
+    <text x="42" y="142" font-size="29" font-weight="700" fill="url(#purple-grad)" letter-spacing="-0.5">Solving Hard Engineering Problems.</text>
+
+    <!-- Subtitle / Meta -->
+    <text x="42" y="184" font-size="14.5" fill="#A1A1AA">
+      <tspan font-weight="600" fill="#FAFAFA">Harshit Tiwari</tspan>
+      <tspan fill="#52525B"> — </tspan>
+      Aspiring Software Development Engineer (SDE)
+    </text>
+    <text x="42" y="208" font-size="13" fill="#71717A">
+      B.Tech CSIT · IPS IES Academy · Madhya Pradesh, India
+    </text>
+  </g>
+
+  <!-- Right Architecture Diagram Block -->
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11">
+    <!-- Connector Lines -->
+    <path d="M 646 95 L 684 95" stroke="#3F3F46" stroke-width="1.5" stroke-dasharray="3 3" />
+    <path d="M 750 95 C 766 95 766 65 782 65" fill="none" stroke="#3F3F46" stroke-width="1.5" />
+    <path d="M 750 95 C 766 95 766 125 782 125" fill="none" stroke="#3F3F46" stroke-width="1.5" />
+    <path d="M 750 95 C 766 95 766 185 782 185" fill="none" stroke="#3F3F46" stroke-width="1.5" />
+
+    <!-- Connector Nodes -->
+    <circle cx="646" cy="95" r="3" fill="#8B5CF6" />
+    <circle cx="684" cy="95" r="3" fill="#8B5CF6" />
+    <circle cx="750" cy="95" r="3" fill="#8B5CF6" />
+    <circle cx="782" cy="65" r="3" fill="#8B5CF6" />
+    <circle cx="782" cy="125" r="3" fill="#8B5CF6" />
+    <circle cx="782" cy="185" r="3" fill="#8B5CF6" />
+
+    <!-- Node Boxes -->
+    <!-- Client -->
+    <rect x="584" y="80" width="62" height="30" rx="6" fill="#18181B" stroke="#27272A" />
+    <text x="615" y="99" fill="#FAFAFA" text-anchor="middle">client</text>
+
+    <!-- API / Gateway -->
+    <rect x="684" y="80" width="66" height="30" rx="6" fill="#8B5CF6" fill-opacity="0.14" stroke="#8B5CF6" />
+    <text x="717" y="99" fill="#A78BFA" font-weight="600" text-anchor="middle">api:gw</text>
+
+    <!-- Redis / Cache -->
+    <rect x="782" y="50" width="66" height="30" rx="6" fill="#18181B" stroke="#27272A" />
+    <text x="815" y="69" fill="#A1A1AA" text-anchor="middle">redis</text>
+
+    <!-- MongoDB -->
+    <rect x="782" y="110" width="66" height="30" rx="6" fill="#18181B" stroke="#27272A" />
+    <text x="815" y="129" fill="#A1A1AA" text-anchor="middle">mongo</text>
+
+    <!-- Bull Queue -->
+    <rect x="782" y="170" width="66" height="30" rx="6" fill="#18181B" stroke="#27272A" />
+    <text x="815" y="189" fill="#A1A1AA" text-anchor="middle">bull:mq</text>
+  </g>
+</svg>

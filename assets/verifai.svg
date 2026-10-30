@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="435" height="350" viewBox="0 0 435 350" role="img" aria-labelledby="veri-t veri-d">
+  <title id="veri-t">VerifAI - Skill Verification Platform</title>
+  <desc id="veri-d">AI-assisted developer skill verification platform with sandboxed execution and queue processing.</desc>
+  <defs>
+    <style>
+      .badge { fill: #8B5CF6; fill-opacity: 0.14; stroke: #8B5CF6; stroke-opacity: 0.5; stroke-width: 1; rx: 5px; }
+      .badge-txt { font-size: 11px; font-weight: 500; fill: #FAFAFA; text-anchor: middle; dominant-baseline: middle; }
+    </style>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="434" height="349" rx="10" fill="#18181B" stroke="#27272A" />
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
+    <!-- Top Indicator -->
+    <rect x="22" y="24" width="3" height="20" rx="1.5" fill="#8B5CF6" />
+    <text x="32" y="39" font-size="18" font-weight="700" fill="#FAFAFA">VerifAI</text>
+    <text x="22" y="62" font-size="12" font-weight="500" fill="#A78BFA">AI-Assisted Skill Verification Engine</text>
+
+    <!-- One-line Problem/Value -->
+    <text x="22" y="88" font-size="13" fill="#A1A1AA">In-browser coding challenge platform evaluating candidate</text>
+    <text x="22" y="106" font-size="13" fill="#A1A1AA">code with sandboxed execution and AI architectural reviews.</text>
+
+    <!-- Tech Stack Row 1 -->
+    <g transform="translate(22, 122)">
+      <rect x="0" y="0" width="50" height="22" class="badge" />
+      <text x="25" y="11" class="badge-txt">React</text>
+
+      <rect x="56" y="0" width="60" height="22" class="badge" />
+      <text x="86" y="11" class="badge-txt">Node.js</text>
+
+      <rect x="122" y="0" width="60" height="22" class="badge" />
+      <text x="152" y="11" class="badge-txt">Express</text>
+
+      <rect x="188" y="0" width="66" height="22" class="badge" />
+      <text x="221" y="11" class="badge-txt">MongoDB</text>
+
+      <rect x="260" y="0" width="50" height="22" class="badge" />
+      <text x="285" y="11" class="badge-txt">Redis</text>
+
+      <rect x="316" y="0" width="74" height="22" class="badge" />
+      <text x="353" y="11" class="badge-txt">Bull Queue</text>
+    </g>
+
+    <!-- Tech Stack Row 2 -->
+    <g transform="translate(22, 150)">
+      <rect x="0" y="0" width="58" height="22" class="badge" />
+      <text x="29" y="11" class="badge-txt">Judge0</text>
+
+      <rect x="64" y="0" width="76" height="22" class="badge" />
+      <text x="102" y="11" class="badge-txt">Gemini API</text>
+
+      <rect x="146" y="0" width="68" height="22" class="badge" />
+      <text x="180" y="11" class="badge-txt">Socket.IO</text>
+
+      <rect x="220" y="0" width="94" height="22" class="badge" />
+      <text x="267" y="11" class="badge-txt">Monaco Editor</text>
+    </g>
+
+    <line x1="22" y1="184" x2="412" y2="184" stroke="#27272A" stroke-width="1" />
+
+    <!-- Engineering Highlights -->
+    <g transform="translate(22, 196)">
+      <circle cx="5" cy="11" r="2.5" fill="#8B5CF6" />
+      <text x="16" y="15" font-size="12.5" fill="#FAFAFA">Sandboxed remote code execution via Judge0 API</text>
+
+      <circle cx="5" cy="34" r="2.5" fill="#8B5CF6" />
+      <text x="16" y="38" font-size="12.5" fill="#FAFAFA">Bull Queue + Redis asynchronous submission pipeline</text>
+
+      <circle cx="5" cy="57" r="2.5" fill="#8B5CF6" />
+      <text x="16" y="61" font-size="12.5" fill="#FAFAFA">Gemini AI code evaluation scoring design &amp; efficiency</text>
+
+      <circle cx="5" cy="80" r="2.5" fill="#8B5CF6" />
+      <text x="16" y="84" font-size="12.5" fill="#FAFAFA">Real-time execution status streaming via Socket.IO</text>
+    </g>
+
+    <text x="22" y="328" font-size="11" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" fill="#71717A">github.com/harshit-tiwari-codebase/VerifAi</text>
+  </g>
+</svg>

@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="340" viewBox="0 0 880 340" role="img" aria-labelledby="skills-title skills-desc">
+  <title id="skills-title">Technical Skills Matrix</title>
+  <desc id="skills-desc">Categorized technical skills including Languages, Backend, Frontend, Databases, Tools, and System Architecture.</desc>
+  <defs>
+    <style>
+      .cat-title { font-size: 13px; font-weight: 600; fill: #A78BFA; }
+      .pill-bg { fill: #8B5CF6; fill-opacity: 0.12; stroke: #8B5CF6; stroke-opacity: 0.45; stroke-width: 1; rx: 6px; }
+      .pill-txt { font-size: 11.5px; font-weight: 500; fill: #FAFAFA; text-anchor: middle; dominant-baseline: middle; }
+      .div-line { stroke: #27272A; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <!-- Container -->
+  <rect x="0.5" y="0.5" width="879" height="339" rx="10" fill="#18181B" stroke="#27272A" />
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
+    <!-- Row 1: Languages -->
+    <text x="24" y="38" class="cat-title">Languages</text>
+    <!-- C++ -->
+    <rect x="180" y="24" width="56" height="26" class="pill-bg" />
+    <text x="208" y="37" class="pill-txt">C++</text>
+    <!-- JavaScript -->
+    <rect x="244" y="24" width="88" height="26" class="pill-bg" />
+    <text x="288" y="37" class="pill-txt">JavaScript</text>
+    <!-- TypeScript -->
+    <rect x="340" y="24" width="90" height="26" class="pill-bg" />
+    <text x="385" y="37" class="pill-txt">TypeScript</text>
+    <!-- Python -->
+    <rect x="438" y="24" width="70" height="26" class="pill-bg" />
+    <text x="473" y="37" class="pill-txt">Python</text>
+
+    <line x1="24" y1="62" x2="856" y2="62" class="div-line" />
+
+    <!-- Row 2: Backend Development -->
+    <text x="24" y="90" class="cat-title">Backend</text>
+    <!-- Node.js -->
+    <rect x="180" y="76" width="72" height="26" class="pill-bg" />
+    <text x="216" y="89" class="pill-txt">Node.js</text>
+    <!-- Express.js -->
+    <rect x="260" y="76" width="86" height="26" class="pill-bg" />
+    <text x="303" y="89" class="pill-txt">Express.js</text>
+    <!-- REST APIs -->
+    <rect x="354" y="76" width="84" height="26" class="pill-bg" />
+    <text x="396" y="89" class="pill-txt">REST APIs</text>
+    <!-- JWT Auth -->
+    <rect x="446" y="76" width="80" height="26" class="pill-bg" />
+    <text x="486" y="89" class="pill-txt">JWT Auth</text>
+    <!-- Socket.IO -->
+    <rect x="534" y="76" width="82" height="26" class="pill-bg" />
+    <text x="575" y="89" class="pill-txt">Socket.IO</text>
+    <!-- Bull Queue -->
+    <rect x="624" y="76" width="88" height="26" class="pill-bg" />
+    <text x="668" y="89" class="pill-txt">Bull Queue</text>
+
+    <line x1="24" y1="114" x2="856" y2="114" class="div-line" />
+
+    <!-- Row 3: Frontend Development -->
+    <text x="24" y="142" class="cat-title">Frontend</text>
+    <!-- React.js -->
+    <rect x="180" y="128" width="76" height="26" class="pill-bg" />
+    <text x="218" y="141" class="pill-txt">React.js</text>
+    <!-- Vite -->
+    <rect x="264" y="128" width="54" height="26" class="pill-bg" />
+    <text x="291" y="141" class="pill-txt">Vite</text>
+    <!-- Tailwind CSS -->
+    <rect x="326" y="128" width="98" height="26" class="pill-bg" />
+    <text x="375" y="141" class="pill-txt">Tailwind CSS</text>
+    <!-- Redux Toolkit -->
+    <rect x="432" y="128" width="102" height="26" class="pill-bg" />
+    <text x="483" y="141" class="pill-txt">Redux Toolkit</text>
+    <!-- Context API -->
+    <rect x="542" y="128" width="92" height="26" class="pill-bg" />
+    <text x="588" y="141" class="pill-txt">Context API</text>
+    <!-- Zustand -->
+    <rect x="642" y="128" width="72" height="26" class="pill-bg" />
+    <text x="678" y="141" class="pill-txt">Zustand</text>
+    <!-- HTML5 / CSS3 -->
+    <rect x="722" y="128" width="98" height="26" class="pill-bg" />
+    <text x="771" y="141" class="pill-txt">HTML5 / CSS3</text>
+
+    <line x1="24" y1="166" x2="856" y2="166" class="div-line" />
+
+    <!-- Row 4: Databases & Infrastructure -->
+    <text x="24" y="194" class="cat-title">Databases &amp; Cache</text>
+    <!-- MongoDB -->
+    <rect x="180" y="180" width="84" height="26" class="pill-bg" />
+    <text x="222" y="193" class="pill-txt">MongoDB</text>
+    <!-- Mongoose -->
+    <rect x="272" y="180" width="86" height="26" class="pill-bg" />
+    <text x="315" y="193" class="pill-txt">Mongoose</text>
+    <!-- Redis -->
+    <rect x="366" y="180" width="64" height="26" class="pill-bg" />
+    <text x="398" y="193" class="pill-txt">Redis</text>
+
+    <line x1="24" y1="218" x2="856" y2="218" class="div-line" />
+
+    <!-- Row 5: Developer Tools -->
+    <text x="24" y="246" class="cat-title">Developer Tools</text>
+    <!-- Git -->
+    <rect x="180" y="232" width="48" height="26" class="pill-bg" />
+    <text x="204" y="245" class="pill-txt">Git</text>
+    <!-- GitHub -->
+    <rect x="236" y="232" width="72" height="26" class="pill-bg" />
+    <text x="272" y="245" class="pill-txt">GitHub</text>
+    <!-- VS Code -->
+    <rect x="316" y="232" width="80" height="26" class="pill-bg" />
+    <text x="356" y="245" class="pill-txt">VS Code</text>
+    <!-- Postman -->
+    <rect x="404" y="232" width="78" height="26" class="pill-bg" />
+    <text x="443" y="245" class="pill-txt">Postman</text>
+    <!-- Judge0 -->
+    <rect x="490" y="232" width="72" height="26" class="pill-bg" />
+    <text x="526" y="245" class="pill-txt">Judge0</text>
+
+    <line x1="24" y1="270" x2="856" y2="270" class="div-line" />
+
+    <!-- Row 6: Systems & Architecture -->
+    <text x="24" y="298" class="cat-title">Architecture</text>
+    <!-- Redis Caching -->
+    <rect x="180" y="284" width="70" height="26" class="pill-bg" />
+    <text x="215" y="297" class="pill-txt">Caching</text>
+    <!-- Bull Queues / Async -->
+    <rect x="258" y="284" width="138" height="26" class="pill-bg" />
+    <text x="327" y="297" class="pill-txt">Async Queue Pipeline</text>
+    <!-- Rate Limiting -->
+    <rect x="404" y="284" width="98" height="26" class="pill-bg" />
+    <text x="453" y="297" class="pill-txt">Rate Limiting</text>
+    <!-- Consistent Hashing -->
+    <rect x="510" y="284" width="138" height="26" class="pill-bg" />
+    <text x="579" y="297" class="pill-txt">Consistent Hashing</text>
+    <!-- AI API Integration -->
+    <rect x="656" y="284" width="136" height="26" class="pill-bg" />
+    <text x="724" y="297" class="pill-txt">AI API Integration</text>
+  </g>
+</svg>

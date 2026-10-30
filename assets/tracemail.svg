@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="435" height="350" viewBox="0 0 435 350" role="img" aria-labelledby="tm-t tm-d">
+  <title id="tm-t">TraceMail - Email Threat Intelligence</title>
+  <desc id="tm-d">Email security and threat intelligence platform analyzing SPF, DKIM, DMARC, and relay headers.</desc>
+  <defs>
+    <style>
+      .badge { fill: #8B5CF6; fill-opacity: 0.14; stroke: #8B5CF6; stroke-opacity: 0.5; stroke-width: 1; rx: 5px; }
+      .badge-txt { font-size: 11px; font-weight: 500; fill: #FAFAFA; text-anchor: middle; dominant-baseline: middle; }
+    </style>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="434" height="349" rx="10" fill="#18181B" stroke="#27272A" />
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
+    <!-- Top Indicator -->
+    <rect x="22" y="24" width="3" height="20" rx="1.5" fill="#8B5CF6" />
+    <text x="32" y="39" font-size="18" font-weight="700" fill="#FAFAFA">TraceMail</text>
+    <rect x="126" y="24" width="96" height="18" rx="9" fill="#27272A" />
+    <text x="174" y="36.5" font-size="10" font-weight="600" fill="#A78BFA" text-anchor="middle">IN ACTIVE DEV</text>
+    <text x="22" y="62" font-size="12" font-weight="500" fill="#A78BFA">Email Threat Intelligence &amp; Forensics</text>
+
+    <!-- One-line Problem/Value -->
+    <text x="22" y="88" font-size="13" fill="#A1A1AA">Automated email authentication validator analyzing SPF,</text>
+    <text x="22" y="106" font-size="13" fill="#A1A1AA">DKIM, DMARC alignment and relay headers to stop spoofing.</text>
+
+    <!-- Tech Stack Row 1 -->
+    <g transform="translate(22, 122)">
+      <rect x="0" y="0" width="50" height="22" class="badge" />
+      <text x="25" y="11" class="badge-txt">React</text>
+
+      <rect x="56" y="0" width="80" height="22" class="badge" />
+      <text x="96" y="11" class="badge-txt">TypeScript</text>
+
+      <rect x="142" y="0" width="60" height="22" class="badge" />
+      <text x="172" y="11" class="badge-txt">Node.js</text>
+
+      <rect x="208" y="0" width="60" height="22" class="badge" />
+      <text x="238" y="11" class="badge-txt">Express</text>
+
+      <rect x="274" y="0" width="58" height="22" class="badge" />
+      <text x="303" y="11" class="badge-txt">Python</text>
+
+      <rect x="338" y="0" width="50" height="22" class="badge" />
+      <text x="363" y="11" class="badge-txt">Redis</text>
+    </g>
+
+    <line x1="22" y1="184" x2="412" y2="184" stroke="#27272A" stroke-width="1" />
+
+    <!-- Engineering Highlights -->
+    <g transform="translate(22, 196)">
+      <circle cx="5" cy="11" r="2.5" fill="#8B5CF6" />
+      <text x="16" y="15" font-size="12.5" fill="#FAFAFA">Cryptographic signature verification (SPF, DKIM, DMARC)</text>
+
+      <circle cx="5" cy="34" r="2.5" fill="#8B5CF6" />
+      <text x="16" y="38" font-size="12.5" fill="#FAFAFA">Hop-by-hop relay header parsing &amp; origin IP geolocation</text>
+
+      <circle cx="5" cy="57" r="2.5" fill="#8B5CF6" />
+      <text x="16" y="61" font-size="12.5" fill="#FAFAFA">Heuristic risk engine identifying spoofing &amp; lookalike domains</text>
+
+      <circle cx="5" cy="80" r="2.5" fill="#8B5CF6" />
+      <text x="16" y="84" font-size="12.5" fill="#FAFAFA">SHA-256 evidence integrity hashing for forensics audits</text>
+    </g>
+
+    <text x="22" y="328" font-size="11" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" fill="#71717A">github.com/harshit-tiwari-codebase/TraceMail-</text>
+  </g>
+</svg>

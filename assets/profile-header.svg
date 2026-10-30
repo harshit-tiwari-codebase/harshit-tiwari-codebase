@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="76" viewBox="0 0 880 76" role="img" aria-labelledby="header-facts-title header-facts-desc">
+  <title id="header-facts-title">Developer Overview</title>
+  <desc id="header-facts-desc">Core facts: B.Tech CSIT 2024 to present, CGPA 9.3/10 at IPS IES Academy, Madhya Pradesh India, focusing on Backend, DSA, and Distributed Systems.</desc>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
+    <!-- Card Frame -->
+    <rect x="0.5" y="0.5" width="879" height="75" rx="10" fill="#18181B" stroke="#27272A" />
+
+    <!-- Col 1: Education -->
+    <text x="24" y="29" font-size="11.5" font-weight="600" fill="#8B5CF6" letter-spacing="0.5">EDUCATION</text>
+    <text x="24" y="52" font-size="13.5" font-weight="600" fill="#FAFAFA">B.Tech CSIT (2024–present)</text>
+
+    <!-- Separator 1 -->
+    <line x1="225" y1="18" x2="225" y2="58" stroke="#27272A" stroke-width="1" />
+
+    <!-- Col 2: Academic Standing -->
+    <text x="245" y="29" font-size="11.5" font-weight="600" fill="#8B5CF6" letter-spacing="0.5">ACADEMIC STANDING</text>
+    <text x="245" y="52" font-size="13.5" font-weight="600" fill="#FAFAFA">CGPA 9.3 / 10 <tspan font-weight="400" fill="#71717A">· IPS IES</tspan></text>
+
+    <!-- Separator 2 -->
+    <line x1="445" y1="18" x2="445" y2="58" stroke="#27272A" stroke-width="1" />
+
+    <!-- Col 3: Location -->
+    <text x="465" y="29" font-size="11.5" font-weight="600" fill="#8B5CF6" letter-spacing="0.5">LOCATION</text>
+    <text x="465" y="52" font-size="13.5" font-weight="600" fill="#FAFAFA">Madhya Pradesh, India</text>
+
+    <!-- Separator 3 -->
+    <line x1="645" y1="18" x2="645" y2="58" stroke="#27272A" stroke-width="1" />
+
+    <!-- Col 4: Primary Domain -->
+    <text x="665" y="29" font-size="11.5" font-weight="600" fill="#8B5CF6" letter-spacing="0.5">ENGINEERING DOMAIN</text>
+    <text x="665" y="52" font-size="13.5" font-weight="600" fill="#FAFAFA">Backend &amp; Distributed Systems</text>
+  </g>
+</svg>

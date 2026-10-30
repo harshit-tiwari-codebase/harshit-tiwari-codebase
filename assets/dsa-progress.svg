@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="175" viewBox="0 0 880 175" role="img" aria-labelledby="dsa-t dsa-d">
+  <title id="dsa-t">DSA Journey &amp; Problem Solving</title>
+  <desc id="dsa-d">LeetCode problem-solving progress in C++: 64 of 600 problems completed with focus on core algorithmic patterns and distributed algorithms.</desc>
+  <defs>
+    <linearGradient id="dsa-bar-fill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6" />
+      <stop offset="100%" stop-color="#A78BFA" />
+    </linearGradient>
+    <style>
+      .tag { fill: #8B5CF6; fill-opacity: 0.12; stroke: #8B5CF6; stroke-opacity: 0.4; stroke-width: 1; rx: 4px; }
+      .tag-txt { font-size: 11px; fill: #FAFAFA; text-anchor: middle; dominant-baseline: middle; }
+    </style>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="879" height="174" rx="10" fill="#18181B" stroke="#27272A" />
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
+    <!-- Header Row -->
+    <text x="24" y="32" font-size="14" font-weight="700" fill="#FAFAFA">LeetCode &amp; Algorithmic Progress</text>
+    <text x="856" y="32" font-size="12" font-weight="500" fill="#A78BFA" text-anchor="end">Primary Language: C++</text>
+
+    <!-- Stat Counts -->
+    <text x="24" y="60" font-size="18" font-weight="700" fill="#A78BFA">64 <tspan font-size="13" font-weight="400" fill="#A1A1AA">/ 600 Problems Solved</tspan></text>
+    <text x="856" y="60" font-size="12" fill="#71717A" text-anchor="end">10.7% towards long-term goal</text>
+
+    <!-- Progress Bar Track -->
+    <rect x="24" y="72" width="832" height="10" rx="5" fill="#27272A" />
+    <rect x="24" y="72" width="89" height="10" rx="5" fill="url(#dsa-bar-fill)" />
+
+    <line x1="24" y1="98" x2="856" y2="98" stroke="#27272A" stroke-width="1" />
+
+    <!-- Patterns & Applied Algorithms -->
+    <text x="24" y="120" font-size="11.5" font-weight="600" fill="#8B5CF6">CORE PATTERNS</text>
+    <text x="140" y="120" font-size="12" fill="#A1A1AA">Arrays &amp; Strings · Two Pointers · Sliding Window · Hashing · Prefix Sums</text>
+
+    <text x="24" y="146" font-size="11.5" font-weight="600" fill="#8B5CF6">SYSTEM ALGOS</text>
+    <text x="140" y="146" font-size="12" fill="#FAFAFA">Token Bucket Rate Limiter · Snowflake ID Generator · Consistent Hashing Ring</text>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="240" viewBox="0 0 280 240" role="img" aria-labelledby="wea-t wea-d">
+  <title id="wea-t">Weather Forecast Dashboard</title>
+  <desc id="wea-d">Weather forecasting application consuming REST API endpoints with responsive forecast visualization.</desc>
+  <defs>
+    <style>
+      .badge { fill: #8B5CF6; fill-opacity: 0.14; stroke: #8B5CF6; stroke-opacity: 0.5; stroke-width: 1; rx: 5px; }
+      .badge-txt { font-size: 10.5px; font-weight: 500; fill: #FAFAFA; text-anchor: middle; dominant-baseline: middle; }
+    </style>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="279" height="239" rx="10" fill="#18181B" stroke="#27272A" />
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
+    <!-- Icon Indicator -->
+    <circle cx="28" cy="28" r="8" fill="#38BDF8" fill-opacity="0.2" stroke="#38BDF8" />
+    <circle cx="28" cy="28" r="3" fill="#38BDF8" />
+
+    <text x="20" y="60" font-size="16" font-weight="700" fill="#FAFAFA">Weather App</text>
+    <text x="20" y="78" font-size="11.5" font-weight="500" fill="#A78BFA">REST API Weather Analytics</text>
+
+    <text x="20" y="104" font-size="12" fill="#A1A1AA">Dynamic meteorological dashboard</text>
+    <text x="20" y="120" font-size="12" fill="#A1A1AA">fetching live weather metrics,</text>
+    <text x="20" y="136" font-size="12" fill="#A1A1AA">multi-day forecasts, and locations.</text>
+
+    <!-- Badges -->
+    <g transform="translate(20, 150)">
+      <rect x="0" y="0" width="50" height="20" class="badge" />
+      <text x="25" y="10" class="badge-txt">React</text>
+
+      <rect x="56" y="0" width="80" height="20" class="badge" />
+      <text x="96" y="10" class="badge-txt">Tailwind CSS</text>
+
+      <rect x="142" y="0" width="66" height="20" class="badge" />
+      <text x="175" y="10" class="badge-txt">REST APIs</text>
+    </g>
+
+    <line x1="20" y1="184" x2="260" y2="184" stroke="#27272A" stroke-width="1" />
+
+    <text x="20" y="208" font-size="11" fill="#FAFAFA">Asynchronous fetch &amp; state handling</text>
+    <text x="20" y="226" font-size="10" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" fill="#71717A">Personal Project</text>
+  </g>
+</svg>
