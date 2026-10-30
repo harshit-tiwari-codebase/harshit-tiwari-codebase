@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="240" viewBox="0 0 280 240" role="img" aria-labelledby="nex-t nex-d">
+  <title id="nex-t">Nexora - Real-Time AI Workspace</title>
+  <desc id="nex-d">Full stack real-time AI workspace with WebSockets, autonomous agents, and decoupled backend architecture.</desc>
+  <defs>
+    <style>
+      .badge { fill: #8B5CF6; fill-opacity: 0.14; stroke: #8B5CF6; stroke-opacity: 0.5; stroke-width: 1; rx: 5px; }
+      .badge-txt { font-size: 10.5px; font-weight: 500; fill: #FAFAFA; text-anchor: middle; dominant-baseline: middle; }
+    </style>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="279" height="239" rx="10" fill="#18181B" stroke="#27272A" />
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
+    <!-- Live indicator -->
+    <rect x="20" y="18" width="76" height="18" rx="9" fill="#10B981" fill-opacity="0.15" stroke="#10B981" stroke-opacity="0.4" />
+    <circle cx="28" cy="27" r="3" fill="#10B981" />
+    <text x="56" y="30.5" font-size="9.5" font-weight="600" fill="#10B981" text-anchor="middle">LIVE APP</text>
+
+    <text x="20" y="58" font-size="16" font-weight="700" fill="#FAFAFA">Nexora</text>
+    <text x="20" y="76" font-size="11.5" font-weight="500" fill="#A78BFA">Real-Time AI Workspace &amp; Hub</text>
+
+    <text x="20" y="100" font-size="12" fill="#A1A1AA">Decoupled full-stack AI workspace</text>
+    <text x="20" y="116" font-size="12" fill="#A1A1AA">featuring bidirectional WebSockets,</text>
+    <text x="20" y="132" font-size="12" fill="#A1A1AA">chat agents, and Docker deployment.</text>
+
+    <!-- Badges -->
+    <g transform="translate(20, 146)">
+      <rect x="0" y="0" width="46" height="20" class="badge" />
+      <text x="23" y="10" class="badge-txt">React</text>
+
+      <rect x="52" y="0" width="56" height="20" class="badge" />
+      <text x="80" y="10" class="badge-txt">Node.js</text>
+
+      <rect x="114" y="0" width="68" height="20" class="badge" />
+      <text x="148" y="10" class="badge-txt">Socket.IO</text>
+
+      <rect x="188" y="0" width="48" height="20" class="badge" />
+      <text x="212" y="10" class="badge-txt">Vite</text>
+    </g>
+
+    <line x1="20" y1="180" x2="260" y2="180" stroke="#27272A" stroke-width="1" />
+
+    <text x="20" y="202" font-size="11" fill="#FAFAFA">Bidirectional Socket streaming</text>
+    <text x="20" y="222" font-size="10" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" fill="#71717A">github.com/.../Nexora</text>
+  </g>
+</svg>

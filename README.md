@@ -33,6 +33,7 @@ My engineering work centers on what happens behind the user interface: database 
 - **VerifAI** represents my focus on distributed workflows: user-submitted source code is ingested via REST endpoints, queued through BullMQ with Redis, executed within an isolated Judge0 execution sandbox, and reviewed via the Google Gemini API for structural quality and algorithmic efficiency.
 - **Pixlify** tackles full-stack social engineering: multi-entity relational patterns modeled in MongoDB, dynamic activity feed generation, media pipeline processing with ImageKit, and Redis query caching.
 - **TraceMail** (currently in active development) tackles security forensics: parsing hop-by-hop SMTP relay headers and validating cryptographic email signatures (SPF, DKIM, DMARC) to detect spoofing threats.
+- **Nexora** is a real-time AI workspace with full-duplex WebSocket communication, autonomous drafting agents, and a decoupled Dockerized backend architecture.
 
 I treat Data Structures and Algorithms as foundational tools for systems programming—informing decisions around hash ring redistribution, token bucket rate limiting, and cache eviction policies.
 
@@ -58,7 +59,7 @@ I treat Data Structures and Algorithms as foundational tools for systems program
 | **Backend Engineering** | Node.js, Express.js, REST APIs, JWT Authentication, Socket.IO, Bull Queue, Background Job Processing |
 | **Databases &amp; Caching** | MongoDB, Mongoose, Redis (In-Memory Caching &amp; Queuing) |
 | **Frontend Engineering** | React.js, Vite, Tailwind CSS, Redux Toolkit, Context API, Zustand |
-| **Developer Tools** | Git, GitHub, VS Code, Postman, Judge0 API, ImageKit |
+| **Developer Tools** | Git, GitHub, VS Code, Postman, Judge0 API, ImageKit, Docker |
 | **Architecture &amp; Design** | Schema Modeling, Caching Strategies, Queue-Based Architecture, Consistent Hashing, Rate Limiting |
 
 ---
@@ -86,10 +87,12 @@ I treat Data Structures and Algorithms as foundational tools for systems program
 ### Additional Applications
 
 <div align="center">
+  <a href="https://github.com/harshit-tiwari-codebase/Nexora">
+    <img src="assets/nexora.svg" alt="Nexora Project Card" width="32%">
+  </a>
   <a href="https://github.com/harshit-tiwari-codebase/macos-dev-portfolio">
     <img src="assets/macos-portfolio.svg" alt="macOS Portfolio Project Card" width="32%">
   </a>
-  <img src="assets/spotify-clone.svg" alt="Spotify Clone Project Card" width="32%">
   <img src="assets/weather-app.svg" alt="Weather App Project Card" width="32%">
 </div>
 
@@ -99,10 +102,10 @@ I treat Data Structures and Algorithms as foundational tools for systems program
 | :--- | :--- | :--- | :--- | :--- |
 | **[VerifAI](https://github.com/harshit-tiwari-codebase/VerifAi)** | Automated evaluation of developer code quality under test conditions | React, Node.js, Express, MongoDB, Redis, Bull, Judge0, Gemini API, Socket.IO | Asynchronous job execution pipeline, sandboxed remote test validation, AI readability &amp; complexity scoring | [GitHub](https://github.com/harshit-tiwari-codebase/VerifAi) · [Live App](https://verif-ai-six.vercel.app) |
 | **[Pixlify](https://github.com/harshit-tiwari-codebase/pixlify-mern)** | High-interaction social application with personalized feed indexing | React.js, Vite, Tailwind CSS, Node.js, Express, MongoDB, Redis, ImageKit, JWT | Redis caching layer for feeds and profiles, normalized Mongoose schemas, media transformation pipeline | [GitHub](https://github.com/harshit-tiwari-codebase/pixlify-mern) |
+| **[Nexora](https://github.com/harshit-tiwari-codebase/Nexora)** | Real-time AI collaborative workspace with bidirectional agent communication | React 19, Vite, Tailwind CSS, Node.js, Express, Socket.IO, Docker | Full-duplex WebSocket messaging, decoupled client/server microservice design, Dockerized architecture | [GitHub](https://github.com/harshit-tiwari-codebase/Nexora) · [Live App](https://nexora-kappa-gules.vercel.app) |
 | **[TraceMail](https://github.com/harshit-tiwari-codebase/TraceMail-)** *(In Active Dev)* | Email spoofing detection and forensic mail header analysis | React, TypeScript, Node.js, Express, Python, Redis | Hop-by-hop relay header parsing, cryptographic signature verification (SPF, DKIM, DMARC), SHA-256 evidence integrity | [GitHub](https://github.com/harshit-tiwari-codebase/TraceMail-) · [Live App](https://trace-mail-seven.vercel.app) |
 | **[Emotify](https://github.com/harshit-tiwari-codebase/emotify)** | Real-time emotion detection mapping facial expressions to audio playlists | React, Node.js, Express, MongoDB, MediaPipe, Google Generative AI | Client-side facial landmark tracking without raw video transmission, generative AI semantic genre mapping | [GitHub](https://github.com/harshit-tiwari-codebase/emotify) |
 | **[macOS Portfolio](https://github.com/harshit-tiwari-codebase/macos-dev-portfolio)** | Desktop-grade portfolio environment simulating an operating system interface | React, Tailwind CSS, Framer Motion | Dynamic window management, draggable UI controls, embedded terminal emulator, markdown note viewer | [GitHub](https://github.com/harshit-tiwari-codebase/macos-dev-portfolio) |
-| **Spotify Clone** | Web music streaming application with custom audio player interface | React, JavaScript, CSS3 | HTML5 Audio API state synchronizer, dynamic playlist queuing, responsive media player controls | Personal Project |
 | **Weather App** | Meteorological forecasting interface consuming multi-point weather data | React, Tailwind CSS, REST APIs | Asynchronous API fetching, coordinate query caching, responsive temperature visualization | Personal Project |
 
 ---
