@@ -155,8 +155,8 @@ I am actively seeking software engineering opportunities and collaborations on c
 
 - **GitHub**: [github.com/harshit-tiwari-codebase](https://github.com/harshit-tiwari-codebase)
 - **LinkedIn**: [linkedin.com/in/harshit-tiwari-48830b3b4](https://www.linkedin.com/in/harshit-tiwari-48830b3b4)
-- **Portfolio**: `[ADD: Portfolio URL]`
-- **Email**: `[ADD: Email Address]`
+- **Portfolio**: https://harshit-tiwari-gamma.vercel.app/
+- **Email**: harshit20112005@gmail.com
 
 ---
 
