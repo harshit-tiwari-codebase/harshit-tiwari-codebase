@@ -7,7 +7,7 @@
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/harshit-tiwari-48830b3b4"><b>LinkedIn</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="[ADD: Portfolio URL]"><b>Portfolio</b></a>
+  <a href="https://harshit-tiwari-gamma.vercel.app"><b>Portfolio</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:[ADD: Email Address]"><b>Email</b></a>
 </p>
